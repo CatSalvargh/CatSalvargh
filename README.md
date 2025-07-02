@@ -5,9 +5,8 @@ I possess a blend of Tech and soft skills, thanks to my 8 years of work experien
 ![githubReadMEimage2](https://github.com/user-attachments/assets/f114f2ea-c370-4753-afa2-7489d1c2a6f2)
 
 **I’m currently learning:**
-- The Odin Full Stack Program / JS path
-   latest project: [A restaurant page](https://catsalvargh.github.io/The_Odin_Project/)
-    https://www.theodinproject.com/paths/full-stack-javascript
+- The Odin Full Stack Program / [JS path](https://www.theodinproject.com/paths/full-stack-javascript)
+- latest project: [A restaurant page](https://catsalvargh.github.io/The_Odin_Project/)
 
 **I am following:**
 - The full stack Dev path:
