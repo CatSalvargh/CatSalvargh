@@ -1,7 +1,7 @@
 ## Hi there 👋
 Cath Salvargh here! 
 
-Thanks to my 8 years of work experience in Institutional Client Service, I am that kind of rare devs with client facing skills that gets alone with any social, client interactions.
+Thanks to my 8 years of work experience in Institutional Client Service, I am that kind of rare devs with client facing skills that gets alone with any social, client interactions. Last year I decided to put an end to that successful career and to dust off and updgrade my coding skills.
 
 Beyond work and studies, here is the coolest, most important project I've ever worked on (still giving it a go):
 
