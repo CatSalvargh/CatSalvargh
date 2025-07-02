@@ -1,6 +1,9 @@
 ## Hi there 👋
-Cath Salvargh here! JS nerd.
-I possess a blend of Tech and soft skills, thanks to my 8 years of work experience in Institutional Client Service. Beyond work and studies, here is the coolest, most important project I've ever worked on (still giving it a go):
+Cath Salvargh here! 
+
+Thanks to my 8 years of work experience in Institutional Client Service, I am that kind of rare devs with client facing skills that gets alone with any social, client interactions.
+
+Beyond work and studies, here is the coolest, most important project I've ever worked on (still giving it a go):
 
 ![githubReadMEimage2](https://github.com/user-attachments/assets/f114f2ea-c370-4753-afa2-7489d1c2a6f2)
 
