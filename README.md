@@ -6,6 +6,7 @@ I possess a blend of Tech and soft skills, thanks to my 8 years of work experien
 
 **I’m currently learning:**
 - The Odin Full Stack Program / JS path
+   latest project: [A restaurant page](https://catsalvargh.github.io/The_Odin_Project/)
     https://www.theodinproject.com/paths/full-stack-javascript
 
 **I am following:**
@@ -15,6 +16,7 @@ I possess a blend of Tech and soft skills, thanks to my 8 years of work experien
 **I am ready to:**
 - Take on a front-end junior role
 - Hanlde any JS project
+- API endpoints testing / Postman
 
 **I have foundational knowledge of:**
 - Python
