@@ -5,7 +5,7 @@ Thanks to my 8 years of work experience in Institutional Client Service, I am th
 
 Beyond work and studies, here is the coolest, most important project I've ever worked on (still giving it a go):
 
-![githubReadMEimage2](https://github.com/user-attachments/assets/f114f2ea-c370-4753-afa2-7489d1c2a6f2)
+![githubReadMEimage3](https://github.com/user-attachments/assets/43bd96e9-decf-4c5c-aae0-acfc23bbb742)
 
 **I’m currently learning:**
 - The Odin Full Stack Program / [JS path](https://www.theodinproject.com/paths/full-stack-javascript)
