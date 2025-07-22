@@ -5,16 +5,13 @@ Thanks to my 8 years of work experience in Institutional Client Service, I am th
 
 **I’m currently learning:**
 - The Odin Full Stack Program / [JS path](https://www.theodinproject.com/paths/full-stack-javascript)
-- Highlights:
-  [Weather app](https://catsalvargh.github.io/weather/)
 
-   [restaurant page](https://catsalvargh.github.io/The_Odin_Project/)
-  
-  [Dashboard](https://catsalvargh.github.io/05_dashboard/)
 
-**I am following:**
-- The full stack Dev path:
-    https://roadmap.sh/full-stack
+**Highlighted projects:**
+- Responsive design: [Portfolio](https://catsalvargh.github.io/portfolio/)  | - APIs: [Weather app](https://catsalvargh.github.io/weather/)  |  - [restaurant page](https://catsalvargh.github.io/The_Odin_Project/)  | - Full project: [To-do-app](https://catsalvargh.github.io/todo-list/) (in progress)  | - [Dashboard](https://catsalvargh.github.io/05_dashboard/) (in progress)
+
+**Goal:**
+- The [full stack Dev path](https://roadmap.sh/full-stack)    
 
 Beyond work and studies, here is the coolest, most important project I've ever worked on (still giving it a go):
 
