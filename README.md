@@ -6,9 +6,11 @@ Thanks to my 8 years of work experience in Institutional Client Service, I am th
 **I’m currently learning:**
 - The Odin Full Stack Program / [JS path](https://www.theodinproject.com/paths/full-stack-javascript)
 
-
 **Highlighted projects:**
 - Responsive design: [Portfolio](https://catsalvargh.github.io/portfolio/)  | - APIs: [Weather app](https://catsalvargh.github.io/weather/)  |  - [restaurant page](https://catsalvargh.github.io/The_Odin_Project/)  | - Full project: [To-do-app](https://catsalvargh.github.io/todo-list/) (in progress)  | - [Dashboard](https://catsalvargh.github.io/05_dashboard/) (in progress)
+
+- Algortihms and Data Structures
+[DS general repository](https://github.com/CatSalvargh/DataStructures)  | [LinkedList](https://github.com/CatSalvargh/DataStructures/tree/master/linkedList) | [HashMap](https://github.com/CatSalvargh/DataStructures/tree/master/hashMap) | [BinarySearchTree](https://github.com/CatSalvargh/DataStructures/tree/master/binarySearchTree) | [Queue](https://github.com/CatSalvargh/DataStructures/tree/master/queue) | Algorithm [MergeSort](https://github.com/CatSalvargh/algorithms/blob/master/mergesort.js)
 
 **Goal:**
 - The [full stack Dev path](https://roadmap.sh/full-stack)    
